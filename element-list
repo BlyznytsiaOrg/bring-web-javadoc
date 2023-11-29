@@ -6,7 +6,6 @@ com.bobocode.bring.web.servlet
 com.bobocode.bring.web.servlet.annotation
 com.bobocode.bring.web.servlet.annotation.resolver
 com.bobocode.bring.web.servlet.bbp
-com.bobocode.bring.web.servlet.data
 com.bobocode.bring.web.servlet.error
 com.bobocode.bring.web.servlet.exception
 com.bobocode.bring.web.servlet.http
