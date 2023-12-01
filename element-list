@@ -1,4 +1,9 @@
 com.bobocode.bring.web
+com.bobocode.bring.web.actuator.controller
+com.bobocode.bring.web.actuator.dto
+com.bobocode.bring.web.actuator.service
+com.bobocode.bring.web.actuator.service.impl
+com.bobocode.bring.web.actuator.utils
 com.bobocode.bring.web.server
 com.bobocode.bring.web.server.exception
 com.bobocode.bring.web.server.properties
